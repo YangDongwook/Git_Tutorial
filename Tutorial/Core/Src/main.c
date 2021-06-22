@@ -92,7 +92,11 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+	  while(1)
+	  {
+		  int i=0;
+		  printf("%d", i);
+	  }
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
